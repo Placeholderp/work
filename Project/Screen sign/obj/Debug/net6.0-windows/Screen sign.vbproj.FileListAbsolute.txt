@@ -1,0 +1,25 @@
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.vbproj.AssemblyReference.cache
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen_sign.Help.resources
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen_sign.Resources.resources
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen_sign.Storemap.resources
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen_sign.Stores.resources
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen_sign.Travel.resources
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.vbproj.GenerateResource.cache
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.GeneratedMSBuildEditorConfig.editorconfig
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.AssemblyInfoInputs.cache
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.AssemblyInfo.vb
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.vbproj.CoreCompileInputs.cache
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen_sign.Form1.resources
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\Screen sign.exe
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\Screen sign.deps.json
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\Screen sign.runtimeconfig.json
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\Screen sign.dll
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\ref\Screen sign.dll
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\Screen sign.pdb
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.dll
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\ref\Screen sign.dll
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.pdb
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.genruntimeconfig.cache
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\System.Speech.dll
+E:\2)Human computer interaction\Hasan\Project\Screen sign\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+E:\2)Human computer interaction\Hasan\Project\Screen sign\obj\Debug\net6.0-windows\Screen sign.vbproj.CopyComplete
